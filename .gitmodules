@@ -1,0 +1,4 @@
+[submodule "codeonweekend.github.io"]
+	path = codeonweekend.github.io
+	url = https://github.com/codeonweekend/codeonweekend.github.io.git
+	branch = master

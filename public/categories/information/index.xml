@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Information on CodeOnWeekend</title>
+    <link>http://example.org/categories/information/</link>
+    <description>Recent content in Information on CodeOnWeekend</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id</language>
+    <lastBuildDate>Tue, 02 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/categories/information/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Frequently Asked Question</title>
+      <link>http://example.org/faq/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/faq/</guid>
+      <description>Q : Berapa banyak orang yang dapat mengerjakan satu proyek?
+A : Jumlah tidak ditentukan namun akan disesuaikan dengan besar aplikas yang akan dibuat.
+Q : Bagaimana jika saya tidak dapat menyelesaikan proyek?
+A : Pengerjaan proyek akan dipandu, setiap minggu nya akan dilakukan sesi meeting dan sharing, jika kamu kesulitan kamu dapat menanyakan solusi di forum atau ke grup telegram
+Q : Apakah saya akan mendapatkan bayaran?
+A : Tidak, proyek ini dibuat secara open source dengan tujuan meningkatkan kemampuan anggota dalam mengembangkan proyek.</description>
+    </item>
+    
+    <item>
+      <title>About CodeOnWeekend</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Mon, 02 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>Code On Weekend Code On Weekend adalah komunitas yang membantu anggota meningkatkan skill pemrograman dengan menggunakan studi kasus proyek. Setiap anggota dapat berpartisipasi pada proyek yang sudah ditentukan.
+Apa itu Code On Weekend?  Code On Weekend merupakan sebuah komunitas programmer baik pelajar, mahasiswa hingga pekerja IT. Komunitas ini bertujuan untuk membantu anggota komunitas agar dapat belajar, bekerja sama dan berkontribusi dalam bidang open source dengan cara kolaborasi projek. Tujuannya agar anggota dapat mempelajari pengembangan proyek software secara real dipandu oleh manajer-manajer proyek yang sudah ditentukan.</description>
+    </item>
+    
+  </channel>
+</rss>

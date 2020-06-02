@@ -1,14 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
+    <title>Tags on CodeOnWeekend</title>
     <link>http://example.org/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <description>Recent content in Tags on CodeOnWeekend</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>id</language>
+    <lastBuildDate>Tue, 02 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>COW</title>
+      <link>http://example.org/tags/cow/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/cow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information</title>
+      <link>http://example.org/tags/information/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/information/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Insight</title>
+      <link>http://example.org/tags/insight/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/insight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opensource</title>
+      <link>http://example.org/tags/opensource/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/opensource/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

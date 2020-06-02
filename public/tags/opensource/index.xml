@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Opensource on CodeOnWeekend</title>
+    <link>http://example.org/tags/opensource/</link>
+    <description>Recent content in Opensource on CodeOnWeekend</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id</language>
+    <lastBuildDate>Tue, 02 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/opensource/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apa itu opensource</title>
+      <link>http://example.org/2020/apa-itu-opensource/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/2020/apa-itu-opensource/</guid>
+      <description>Opensource terdiri dari dua kata yaitu Open yang bararti terbuka dan Source, yang berarti sumber. Menurut wikipedia Opensource merupakan perangkat lunak di mana source code berada di bawah lisensi di mana pemegang hak cipta memberikan pengguna hak untuk mempelajari, mengubah, dan mendistribusikan perangkat lunak kepada siapa pun dan untuk tujuan apa pun.
+Artinya setiap orang dapat mempelajari, mengubah, mendistribusikannya kepada siapapun. Perangkat lunak Opensource dapat dikembangkan secara publik dan kolaboratif.</description>
+    </item>
+    
+  </channel>
+</rss>
