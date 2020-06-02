@@ -1,0 +1,67 @@
+baseURL = "http://example.org/"
+languageCode = "id"
+title = "CodeOnWeekend"
+theme = "LeaveIt"
+
+paginate = 12
+enableEmoji = true
+enableRobotsTXT = true
+googleAnalytics = ""
+
+preserveTaxonomyNames = true
+
+[blackfriday]
+  hrefTargetBlank = true
+  nofollowLinks = true
+  noreferrerLinks = true
+
+[Permalinks]
+ posts = "/:year/:filename/"
+
+[menu]
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Categories"
+    url = "/categories/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 3
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 4
+  [[menu.main]]
+    name = "Faq"
+    url = "/faq/"
+    weight = 5
+
+[params]
+    since = 2011
+    author = "Chimemoo"                           # Author's name
+    avatar = "/images/icon.png"           # Author's avatar
+    subtitle = "A community that helps members to improve their skills with open source project"         # Subtitle
+    cdn_url = ""           # Base CDN URL
+    home_mode = "" # post or other
+
+    google_verification = ""
+   
+    description = "" # site description
+    keywords = "" # site keywords
+
+    beian = ""
+    baiduAnalytics = ""
+
+    license= ''
+
+[params.social]
+    GitHub = "https://github.com/codeonweekend"
+    Instagram = "http://instagram.com/codeonweekend"
+    Telegram = "http://s.id/telegramcow"
